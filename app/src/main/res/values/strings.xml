@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyStaff</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="start">LOGIN</string>
+    <string name="box">Save login and password</string>
+    <string name="forget">Forgot login/password</string>
+    <string name="employee_header">Employee Info</string>
+    <string name="dep_header">Department ID</string>
+    <string name="subDep_header">Division ID</string>
+    <string name="subSubDep_header">SubDivision ID</string>
+    <string name="employee_info_header">Employee</string>
+    <string name="employee_id">ID</string>
+    <string name="employee_name">Name</string>
+    <string name="employee_title">Title</string>
+    <string name="employee_email">Email</string>
+    <string name="employee_phone">Phone</string>
+</resources>
